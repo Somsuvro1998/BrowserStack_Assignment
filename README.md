@@ -1,1 +1,1 @@
-# BrowserStack_Assignment
+Kindly switch to master branch
